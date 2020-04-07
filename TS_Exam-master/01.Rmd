@@ -1,0 +1,23 @@
+---
+title: 'Emne:'
+author: "Kasper Rosenkrands"
+subtitle: Tidsrækkeanalyse
+output:
+  beamer_presentation:
+    includes:
+      in_header: misc/style.tex
+  ioslides_presentation: default
+  slidy_presentation: default
+---
+
+# 
+\section{ARMA processer, herunder stationaritet, invertibilitet, kausalitet}
+\begin{itemize}
+\item Definitioner, antagelser og vigtige egenskaber
+\item ACF og PACF.
+\item Hvad er specielt interessant eller vigtigt ifm. AR \item processer, MA pro-cesser og ARMA processer?
+\item Hvorved adskiller ARMA sig fra AR og MA i anvendelser?
+\item Forecastegenskaber?
+\item AR($\infty$)og MA($\infty$)?
+\item Hvordan kan man opskrive vha. lag-polynomier og hvordan er \item disse nyttige?
+\end{itemize}

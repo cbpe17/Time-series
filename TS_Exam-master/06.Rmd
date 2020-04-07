@@ -1,0 +1,6 @@
+---
+title: "Emne:"
+author: Kasper Rosenkrands
+date: F20
+output: beamer_presentation
+---

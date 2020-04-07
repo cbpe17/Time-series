@@ -1,0 +1,13 @@
+---
+title: "Emne:"
+subtitle: "Tidsrækkeanalyse"
+author: Kasper Rosenkrands
+output: 
+  beamer_presentation:
+    includes:
+      in_header: misc/style.tex
+---
+
+# Her er et slide
+
+- Her er et **vigtigt** punkt
